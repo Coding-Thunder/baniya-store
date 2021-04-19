@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/baniya-store/static/css/main.b7670f7d.chunk.css",
+    "main.js": "/baniya-store/static/js/main.d84d7a9c.chunk.js",
+    "main.js.map": "/baniya-store/static/js/main.d84d7a9c.chunk.js.map",
+    "runtime-main.js": "/baniya-store/static/js/runtime-main.6b97d89c.js",
+    "runtime-main.js.map": "/baniya-store/static/js/runtime-main.6b97d89c.js.map",
+    "static/js/2.111ea914.chunk.js": "/baniya-store/static/js/2.111ea914.chunk.js",
+    "static/js/2.111ea914.chunk.js.map": "/baniya-store/static/js/2.111ea914.chunk.js.map",
+    "static/js/3.b0a64349.chunk.js": "/baniya-store/static/js/3.b0a64349.chunk.js",
+    "static/js/3.b0a64349.chunk.js.map": "/baniya-store/static/js/3.b0a64349.chunk.js.map",
+    "index.html": "/baniya-store/index.html",
+    "static/css/main.b7670f7d.chunk.css.map": "/baniya-store/static/css/main.b7670f7d.chunk.css.map",
+    "static/js/2.111ea914.chunk.js.LICENSE.txt": "/baniya-store/static/js/2.111ea914.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b97d89c.js",
+    "static/js/2.111ea914.chunk.js",
+    "static/css/main.b7670f7d.chunk.css",
+    "static/js/main.d84d7a9c.chunk.js"
+  ]
+}
